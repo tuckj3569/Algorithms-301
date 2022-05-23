@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Josh\\OneDrive - Queensland University of Technology\\CAB301\\CAB301.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
